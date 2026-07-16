@@ -1,3 +1,6 @@
 "this is samrat dixit " 
 thanyou for making me changes 
 this is the file One 
+
+Now we are Writing to the file.txt 
+If u are ready for it than it's completely fine Otherwise fuckoff 

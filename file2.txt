@@ -2,7 +2,7 @@ Hello World
 this is samrat manash brother
 This is the third line i am writing for the third time for my file2
 
-<<<<<<< HEAD
+
 this is the fourth line i am writing 
 this is the fifth line i am Writing 
 this is the 2025 footer
